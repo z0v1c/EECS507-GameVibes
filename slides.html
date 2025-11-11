@@ -3,32 +3,32 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Download My Slides</title>
+  <title>My Presentation</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
+    html, body {
+      margin: 0;
+      height: 100%;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      height: 100vh;
-      background: #f7f7f7;
-    }
-    a {
-      background: #007acc;
+      background: #111;
       color: white;
-      padding: 14px 28px;
-      text-decoration: none;
-      border-radius: 8px;
-      font-size: 18px;
+      font-family: Arial, sans-serif;
     }
-    a:hover {
-      background: #005fa3;
+    iframe {
+      border: none;
+      width: 90%;
+      height: 85vh;
+      box-shadow: 0 0 20px rgba(0,0,0,0.5);
     }
   </style>
 </head>
 <body>
   <h1>My Presentation</h1>
-  <p><a href="slides.pptx" download>Download PowerPoint (.pptx)</a></p>
+  <iframe 
+    src="https://view.officeapps.live.com/op/embed.aspx?src=https://<username>.github.io/<repo>/presentation.pptx" 
+    allowfullscreen>
+  </iframe>
 </body>
 </html>
