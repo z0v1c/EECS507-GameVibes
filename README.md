@@ -1,6 +1,6 @@
 # ECE 507 — GameVibes Paper Analysis
 
-📽️ **Presentation:** [https://z0v1c.github.io/EECS507-GameVibes/](https://z0v1c.github.io/EECS507-GameVibes/)
+**Presentation:** [https://z0v1c.github.io/EECS507-GameVibes/](https://z0v1c.github.io/EECS507-GameVibes/)
 
 This repository hosts our presentation for **ECE 507: Introduction to Embedded Systems Research**, analyzing the paper  
 **_GameVibes: Vibration-based Crowd Monitoring for Sports Games through Audience-Game-Facility Association Modeling._**
