@@ -17,4 +17,4 @@ The presentation covers:
 
 **Presenters:** Isaac Tourner, Kunal Siddhawar, Zo-Vic Shong  
 **Date:** November 11, 2025  
-**File:** [`507 pres.pptx`](./507%20pres.pptx)
+**File:** [`presentation.pptx`](./presentation.pptx)
